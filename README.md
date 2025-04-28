@@ -1,2 +1,2 @@
 # javascript
-Curso de javascript do CursoemVídeo
+Curso de javascript feito pelo professor Gustavo Guanabara do CursoemVídeo
